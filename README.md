@@ -14,6 +14,16 @@
 # Original notes (with helpful links)
 ## KMMBridge v1 SPM Template
 
+## Practical
+
+# Building BFF
+ - local - `sh gradlew build`
+
+# Link to description - local build in ios
+
+- https://kmmbridge.touchlab.co/docs/spm/IOS_LOCAL_DEV_SPM/
+
+# Original docs 
 This is a template project for Kotlin Multiplatform using KMMBridge to publish Xcode Framework binaries.
 
 It is the template project that contains the shared library that is then consumed by the [Android template](https://github.com/touchlab/KMMBridgeSPMQuickStart-Android) and 
